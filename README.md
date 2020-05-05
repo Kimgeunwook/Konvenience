@@ -41,7 +41,7 @@ width="28%" height="21%" title="회원가입 / 로그인" alt="실행1"> </img><
 <br/>
 <br/>
 
-***4. 민원 등록 / 5. 민원 List*** 
+***4. 민원 추가 / 5. 민원 리스트*** 
 
 <div> <center><img src="https://user-images.githubusercontent.com/48399897/81061932-2c145480-8f10-11ea-80da-d6df87b065d5.JPG"
 width="28%" height="21%" title="민원 등록" alt="실행1"> <center><img src="https://user-images.githubusercontent.com/48399897/81061933-2c145480-8f10-11ea-80b8-29acd8eaaf47.JPG"
