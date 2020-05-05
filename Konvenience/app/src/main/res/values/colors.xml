@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="txt_green">#12160b</color>
+    <color name="bg_green">#B8DC70</color>
+    <color name="bg_green2">#cfdc6a</color>
+    <color name="celery_green">#d4dd4c</color>
+    <color name="bright_green">#077a07</color>
+    <color name="redbean">#6A243E</color>
+    <color name="orange">#FF4500</color>
+    <color name="faded_yellow">#ffc057</color>
+    <color name="bright_yellow">#ffa500</color>
+    <color name="crimpson">#8d1d1d</color>
+    <color name="ash_purple">#a65ba6</color>
+    <color name="sky_blue">#279bdc</color>
+    <color name="white">#ffffff</color>
+    <color name="themeColor">#B8DC70</color>
+    <color name="gray">#59606d</color>
+    <color name="bg_grain">#f1ecde</color>
+    <color name="txt_maroon">#47363c</color>
+    <color name="txt_redbean_dark">#35121f</color>
+</resources>

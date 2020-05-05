@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".civil_compliant">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:background="@color/bg_grain"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp">
+
+
+            <TextView
+                    android:text="민원 리스트"
+                    android:textSize="40sp"
+                    android:fontFamily="@font/baemin_hanna"
+                    android:textColor="@color/txt_green"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="40dp"/>
+
+
+
+        </LinearLayout>
+        <Spinner android:layout_width="match_parent"
+                 android:id="@+id/spin_advisor"
+                 android:entries="@array/spin_spot"
+                 android:gravity="center"
+                 android:layout_marginRight="120dp"
+                 android:layout_marginLeft="120dp"
+                 android:padding="4dp"
+                 android:background="@drawable/bg_minwon"
+                 android:layout_height="wrap_content"></Spinner>
+        <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:padding="10dp"
+                android:gravity="center"
+                android:id="@+id/listview2"
+                android:layout_weight="1">
+        </android.support.v7.widget.RecyclerView>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right">
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
+

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">kkon2</string>
+    <string name="spin_prompt">
+        직업을 선택하세요
+    </string>
+    <string-array name="spin_arr">
+        <item>학생</item>
+        <item>관리자</item>
+    </string-array>
+    <string-array name="spin_spot">
+        <item>전체</item>
+        <item>공대-A</item>
+        <item>공대-B</item>
+        <item>새천년관</item>
+        <item>도서관</item>
+        <item>학생회관</item>
+        <item>산학</item>
+        <item>경영대</item>
+    </string-array>
+    <string name="txt_board1">취업공지</string>
+    <string name="txt_board2">특강공지</string>
+
+    <string name="prompt_board">공지사항 선택</string>
+    <string-array name="arr_board">
+        <item>KU 행정실 공지사항</item>
+        <item>SEOUL ACCORD</item>
+    </string-array>
+</resources>
