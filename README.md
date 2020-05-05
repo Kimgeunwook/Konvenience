@@ -51,7 +51,7 @@ width="28%" height="21%" title="민원 List" alt="실행1"> </img></div>
   
 ***6. 민원 해결 알림*** 
 
-<div> <center><img src="https://user-images.githubusercontent.com/48399897/81061934-2caceb00-8f10-11ea-9570-fdfc630b0d2d.JPG"
+<div> <center><img src="https://user-images.githubusercontent.com/48399897/81076882-2d9d4700-8f27-11ea-9b33-ac7ab9c2b309.png"
 width="28%" height="21%" title="민원 해결 알림" alt="실행1"> </img></div>
 <br/>
 
