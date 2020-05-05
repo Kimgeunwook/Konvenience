@@ -12,7 +12,7 @@
 <br/>
 
 # 2. 시스템 구성도 
-<div> <center><img src="https://user-images.githubusercontent.com/48399897/81061856-09823b80-8f10-11ea-957d-a4b772a3b87c.JPG"width="60%" height="40%" title="시스템구성도 " alt="실행1"> </img></div>
+<div> <center><img src="https://user-images.githubusercontent.com/48399897/81078709-88d03900-8f29-11ea-946a-fc813e14679e.JPG"width="60%" height="40%" title="시스템구성도 " alt="실행1"> </img></div>
 <br/>
 <br/>
 
